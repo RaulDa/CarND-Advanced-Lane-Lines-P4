@@ -114,8 +114,13 @@ I implemented this step in the section 6 of the IPython notebook. Here is an exa
 
 #### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my project video result](./output_videos/project_video.mp4)
-And here's a [link to my challenge video result](./output_videos/challenge_video.mp4).
+Project video:
+
+[![Alt text for your video](https://i.ytimg.com/vi/8Vk3wZvbm2w/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBZN7YcftxCyD3r2z4JJlD6b318rQ)](https://www.youtube.com/watch?v=8Vk3wZvbm2w)
+
+Challenge video: 
+
+[![Alt text for your video](https://i.ytimg.com/vi/1goSxOi9ko0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAt1RQk3zirLG8CTNFFvENZTxKT2w)](https://www.youtube.com/watch?v=1goSxOi9ko0)
 
 ---
 
