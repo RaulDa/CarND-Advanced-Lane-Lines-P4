@@ -112,15 +112,9 @@ I implemented this step in the section 6 of the IPython notebook. Here is an exa
 
 ### Pipeline (video)
 
-#### 1. Provide a link to your final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
+#### 1. Provide a link to your final video output. Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Project video:
-
-[![Alt text for your video](https://i.ytimg.com/vi/8Vk3wZvbm2w/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLBZN7YcftxCyD3r2z4JJlD6b318rQ)](https://www.youtube.com/watch?v=8Vk3wZvbm2w)
-
-Challenge video: 
-
-[![Alt text for your video](https://i.ytimg.com/vi/1goSxOi9ko0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAt1RQk3zirLG8CTNFFvENZTxKT2w)](https://www.youtube.com/watch?v=1goSxOi9ko0)
+The implementation was tested in both [project](https://www.youtube.com/watch?v=8Vk3wZvbm2w) and [challenge](https://www.youtube.com/watch?v=1goSxOi9ko0) videos, with the results shown in the corresponding links.
 
 ---
 
